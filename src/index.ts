@@ -9,10 +9,6 @@ export class Result<T> {
 	 */
 	public readonly value: T | Error | null;
 
-	/**
-	 * Create a result.
-	 * @param {Error} value - Value of the result.
-	 */
 	private constructor(value: T | Error | null) {
 		this.isAFail = value instanceof Error;
 		this.value = value;

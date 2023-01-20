@@ -4,10 +4,12 @@
   "description": "Simple implementation of the Operation Result pattern",
   "author": "SEFR",
   "license": "MIT",
+  "private": false,
   "repository": {
     "url": "https://github.com/Sefrancois/result"
   },
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "lint": "eslint src",
