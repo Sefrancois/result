@@ -2,6 +2,11 @@
   "name": "@sefr/result",
   "version": "1.0.0",
   "description": "Simple implementation of the Operation Result pattern",
+  "author": "SEFR",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/Sefrancois/result"
+  },
   "main": "index.js",
   "scripts": {
     "build": "tsc",
@@ -18,8 +23,6 @@
     "operation-result-typescript",
     "typescript-result"
   ],
-  "author": "SEFR",
-  "license": "ISC",
   "devDependencies": {
     "@types/chai": "^4.3.4",
     "@types/mocha": "^10.0.1",
