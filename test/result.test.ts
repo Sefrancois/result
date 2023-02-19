@@ -1,4 +1,4 @@
-import { expect } from "chai";
+import { expect } from "@sefr/test";
 import { Result } from "../src";
 
 describe("Result", () => {
