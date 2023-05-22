@@ -1,6 +1,6 @@
 {
   "name": "@sefr/result",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple implementation of the Operation Result pattern",
   "author": "SEFR",
   "license": "MIT",
