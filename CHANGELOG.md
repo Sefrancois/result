@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.5](https://github.com/Sefrancois/result/compare/v1.0.4...v1.0.5) (2023-06-14)
+
+
+### Miscellaneous Chores
+
+* **dependencies:** updated dependencies ([b50d40f](https://github.com/Sefrancois/result/commit/b50d40fe772a77d0d00c9627d3ce03201ecb7fe0))
+
 ## [1.0.4](https://github.com/Sefrancois/result/compare/v1.0.3...v1.0.4) (2023-06-06)
 
 
