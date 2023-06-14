@@ -26,11 +26,11 @@
     "typescript-result"
   ],
   "devDependencies": {
-    "@sefr/test": "~1.2.5",
+    "@sefr/test": "~1.2.6",
     "@types/mocha": "~10.0.1",
-    "@types/node": "~18.15.1",
-    "@typescript-eslint/eslint-plugin": "~5.59.9",
-    "@typescript-eslint/parser": "~5.59.9",
+    "@types/node": "~20.3.1",
+    "@typescript-eslint/eslint-plugin": "~5.59.11",
+    "@typescript-eslint/parser": "~5.59.11",
     "eslint": "~8.42.0",
     "mocha": "~10.2.0",
     "ts-node": "~10.9.1",
