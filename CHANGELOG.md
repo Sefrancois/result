@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.6](https://github.com/Sefrancois/result/compare/v1.0.5...v1.0.6) (2023-07-03)
+
+
+### deps
+
+* updated dependencies ([e4aa8b8](https://github.com/Sefrancois/result/commit/e4aa8b8a307e03e9f09bce4dc685303a481b93df))
+
 ## [1.0.5](https://github.com/Sefrancois/result/compare/v1.0.4...v1.0.5) (2023-06-14)
 
 
