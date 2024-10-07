@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.12](https://github.com/Sefrancois/result/compare/v1.0.11...v1.0.12) (2024-10-07)
+
+
+### deps
+
+* updated eslint ([e9b7924](https://github.com/Sefrancois/result/commit/e9b79243d3c230557dfb900825c9bd9afced8d65))
+
 ## [1.0.11](https://github.com/Sefrancois/result/compare/v1.0.10...v1.0.11) (2023-10-30)
 
 
