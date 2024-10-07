@@ -1,9 +1,9 @@
-import { expect } from "@sefr/test";
+import { describe, expect, test } from "vitest";
 import { Result } from "../src";
 
 describe("Result", () => {
-	context("When you return a successful Result with a value", () => {
-		it("returns a successful result with returning value", () => {
+	describe("When you return a successful Result with a value", () => {
+		test("returns a successful result with returning value", () => {
 			// When
 			const actual = Result.ok({ id: "9", message: "It's alright" });
 
@@ -13,8 +13,8 @@ describe("Result", () => {
 		});
 	});
 
-	context("When you return a successful Result without any value", () => {
-		it("returns a successful empty result", () => {
+	describe("When you return a successful Result without any value", () => {
+		test("returns a successful empty result", () => {
 			// When
 			const actual = Result.ok();
 
@@ -24,8 +24,8 @@ describe("Result", () => {
 		});
 	});
 
-	context("When you return a failed Result with a reason", () => {
-		it("returns a failed result with the reason", () => {
+	describe("When you return a failed Result with a reason", () => {
+		test("returns a failed result with the reason", () => {
 			// When
 			const actual = Result.failure(new SomeCustomError(4, "Oops! Something went wrong ! :'("));
 
